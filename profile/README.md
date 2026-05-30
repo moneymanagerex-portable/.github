@@ -71,6 +71,6 @@ For those interested in the underlying technology, the moneymanagerex open sourc
 
 ---
 
-### 🏷 Tags
+###
 
 moneymanagerex • moneymanagerex download • moneymanagerex github • moneymanagerex репозиторий • moneymanagerex домашняя бухгалтерия • moneymanagerex личные финансы • moneymanagerex учет расходов • moneymanagerex управление бюджетом • moneymanagerex инструкция • moneymanagerex настройка • moneymanagerex open source • moneymanagerex ммэ • moneymanagerex импорт csv • moneymanagerex синхронизация
